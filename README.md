@@ -4,7 +4,9 @@ A comprehensive Flutter application to track your personal expenses seamlessly.
 
 ## Tech Stack & Architecture
 
-This project was built focusing on scalability, maintainability, and testing. It follows a **Feature-first Clean Architecture** pattern, splitting features into Domain, Data, and Presentation layers.
+This project was built focusing on scalability, maintainability, and testing. It follows a **Feature-first Clean Architecture** pattern, splitting features into Domain, Data, and Presentation layers. 
+
+> **Note on Architecture Choice:** I implement this Clean Architecture approach for long-term projects or those intended to be scaled for many users. If a project is short-term or only intended for internal/few users, I typically prefer to use an **MVVM** or **MVC** approach for faster development.
 
 ### Key Libraries Used:
 
